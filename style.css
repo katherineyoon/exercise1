@@ -1,0 +1,33 @@
+h1 {
+	color: #000;
+	font-size: 1.5em;
+}
+
+h3{
+	color: #3579DC;
+	margin: 1em;
+}
+
+.title{
+	color: #0000FF;
+	font-size: 3em;
+    font-weight: bold;
+
+}
+.italics {
+	font-style: italic;
+	color: #3579DC	;
+
+}
+
+.sub{
+	font-style: italic;
+
+}
+
+.name{
+	    text-decoration: underline;
+}
+.one{
+	margin: 1em;
+}
